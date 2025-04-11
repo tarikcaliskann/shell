@@ -1,0 +1,14 @@
+controller.c
+controller.h
+controller.o
+Makefile
+model.c
+model.h
+model.o
+olustumudeneme
+output.txt
+README.md
+shell
+view.c
+view.h
+view.o
